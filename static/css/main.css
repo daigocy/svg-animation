@@ -31,6 +31,13 @@ p {
   display: flex;
   flex-flow: row nowrap;
 }
+.block-1 .content.footer {
+  padding: 40px 20px;
+  color: #fff;
+  font-size: 17px;
+  align-items: center;
+  line-height: 1.5;
+}
 .block-1 .content.banner {
   background-color: transparent;
   z-index: 900;
